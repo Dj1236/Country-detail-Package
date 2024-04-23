@@ -1,0 +1,17 @@
+{
+  "name": "countries-detail",
+  "version": "1.0.0",
+  "description": "having all the country detail ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "countries",
+    "npm"
+  ],
+  "author": "Dhairya Joshi",
+  "license": "MIT"
+}
