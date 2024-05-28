@@ -20,9 +20,11 @@ const MyComponent = () => {
   );
 };
 
-export default MyComponent;
+export default MyComponent; '''
 
-### Country Details
+
+
+## Country Details
 
 ```markdown
 # Country Details
